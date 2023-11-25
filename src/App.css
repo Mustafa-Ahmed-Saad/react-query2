@@ -1,0 +1,20 @@
+.loading {
+  position: fixed;
+  top: 5px;
+  right: 5px;
+  background-color: white;
+}
+
+.fetching {
+  position: fixed;
+  bottom: 5px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  background-color: white;
+}
+
+.infiniteScroll-loader {
+  width: fit-content;
+  background-color: white;
+}
